@@ -1,3 +1,4 @@
+// moo
 package main
 
 import (
