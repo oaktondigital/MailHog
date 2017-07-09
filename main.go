@@ -1,4 +1,3 @@
-// mailhog main
 package main
 
 import (
