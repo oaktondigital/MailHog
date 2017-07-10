@@ -1,3 +1,4 @@
+// foo
 package main
 
 import (
