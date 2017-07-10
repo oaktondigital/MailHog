@@ -42,7 +42,7 @@ func configure() {
 
 func main() {
 	if len(os.Args) > 1 && (os.Args[1] == "-version" || os.Args[1] == "--version") {
-		fmt.Println("MailHog cunt version: " + version)
+		fmt.Println("MailHog version: " + version)
 		os.Exit(0)
 	}
 
